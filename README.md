@@ -55,9 +55,3 @@
 - **可观测**：关键状态、调用链和异常行为应当可以被定位。
 - **可扩展**：模块边界清晰，核心流程通过稳定接口协作。
 - **可演进**：架构服务于当前问题，也为容量、团队和业务变化保留空间。
-
-## 技术语言
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeqimin&layout=compact&hide_border=true&bg_color=00000000&title_color=0B5CAD&text_color=475569&locale=cn" alt="yeqimin 的 GitHub 常用语言统计" />
-</div>
